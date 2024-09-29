@@ -1,9 +1,9 @@
-# Deep Learning for MNIST Dataset Classification
+# Artifical Neural Network for MNIST Dataset Classification
 
 This project implements a Neural Network to classify the MNIST dataset using Keras. The MNIST dataset consists of 28x28 grayscale images of handwritten digits (0-9). This README provides an overview of the code, the approach taken to build the model, and the steps involved in loading, preprocessing, and evaluating the model.
 
 ## Table of Contents
-- [Deep Learning for MNIST Dataset Classification](#deep-learning-for-mnist-dataset-classification)
+- [Artifical Neural Network for MNIST Dataset Classification](#artifical-neural-network-for-mnist-dataset-classification)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Dataset Overview](#dataset-overview)
